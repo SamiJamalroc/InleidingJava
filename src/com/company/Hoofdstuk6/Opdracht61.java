@@ -16,7 +16,7 @@ public class Opdracht61 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString("totaal bedrag verdient: "+ getal1,25, 20);
+        g.drawString("totaal bedrag verdiend "+ getal1,25, 20);
         g.drawString("Jan krijgt: "+gemiddelde,  25, 40);
         g.drawString("Ali krijgt "+gemiddelde,  25, 60);
         g.drawString("Jeannette krijgt "+gemiddelde,  25, 80);

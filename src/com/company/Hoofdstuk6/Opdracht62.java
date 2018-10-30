@@ -11,9 +11,9 @@ public class Opdracht62 extends Applet {
 
 
     public void init() {
-        secondeperuur = 60*60;
-        secondesperdag = secondeperuur * 24;
-        secondesperjaar = secondesperdag * 365;
+        secondeperuur = 60*60 - 1;
+        secondesperdag = secondeperuur * 24 - 1;
+        secondesperjaar = secondesperdag * 365 - 1;
 
     }
 

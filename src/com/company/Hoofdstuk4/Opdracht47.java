@@ -1,4 +1,4 @@
-
+package com.company.Hoofdstuk4;
 //Voorbeeld 4.1
 
 import java.awt.*;

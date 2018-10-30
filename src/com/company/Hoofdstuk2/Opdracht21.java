@@ -1,4 +1,4 @@
-//Voorbeeld 2.2
+package com.company.Hoofdstuk2;//Voorbeeld 2.2
 
 import java.applet.Applet;
 import java.awt.*;

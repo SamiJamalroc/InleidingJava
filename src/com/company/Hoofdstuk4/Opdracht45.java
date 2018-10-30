@@ -1,4 +1,4 @@
-//Voorbeeld 4.1
+package com.company.Hoofdstuk4;//Voorbeeld 4.1
 
 import java.applet.Applet;
 import java.awt.*;
